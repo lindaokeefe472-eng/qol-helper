@@ -1,0 +1,21 @@
+# Game binary & engine files
+Probably Stolen.exe
+UnityCrashHandler64.exe
+UnityPlayer.dll
+MonoBleedingEdge/
+Probably Stolen_Data/
+steam_settings/
+*.png
+*.url
+README ME.txt
+
+# Build artifacts & temp
+build/
+bin/
+obj/
+tools/*.exe
+tools/*.txt
+tools/check_*
+tools/disasm*
+tools/inspect*
+tools/resolve*
