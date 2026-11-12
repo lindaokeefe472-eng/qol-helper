@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModManifest>
+  <ID>ProbablyStolen.QoLHelper</ID>
+  <Name>QoL Helper (秒出字与物品助手)</Name>
+  <Author>Developer</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description>秒出字、物品分类彩色标注、快捷上下选择与一键选食物助手</Description>
+  <GameVersions>
+    <Version>1.0</Version>
+  </GameVersions>
+  <Assemblies>
+    <Assembly>ProbablyStolen.QoLHelper.dll</Assembly>
+  </Assemblies>
+  <Capabilities>
+    <Capability>dynamic-code</Capability>
+    <Capability>reflection-external</Capability>
+  </Capabilities>
+</ModManifest>

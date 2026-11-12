@@ -19,3 +19,9 @@ tools/check_*
 tools/disasm*
 tools/inspect*
 tools/resolve*
+
+# Mod binaries & local backups
+Mods/**/*.dll
+tools/*.dll
+tools/builds/
+*.es3
